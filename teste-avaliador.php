@@ -2,7 +2,7 @@
 
 use Alura\Leilao\Model\Lance;
 use Alura\Leilao\Model\Leilao;
-use Alura\Leilao\Model\Service\Avaliador;
+use Alura\Leilao\Service\Avaliador;
 use Alura\Leilao\Model\Usuario;
 
 require 'vendor/autoload.php';
